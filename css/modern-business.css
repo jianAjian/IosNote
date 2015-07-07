@@ -1,0 +1,204 @@
+/*
+ * Custom CSS for...
+ * 'Modern Business' HTML Theme by Start Bootstrap
+ *
+ * All Start Bootstrap themes are licensed under Apache 2.0.
+ * For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com
+ */
+
+/* Global Styles */
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+  background: transparent;
+}
+
+html {
+  background: #262418 url(/img/eniac5-sepia-dark.jpg) no-repeat fixed center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1, h2, h3, a { color: rgb(176, 223, 96); }
+h1, h2, h3 {
+  color: rgb(176, 223, 96);
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+#posts h1, #post h1 { margin-bottom: 0; }
+
+a:hover, a:focus {
+  color: rgb(126, 252, 18);
+  text-decoration: none;
+}
+
+/* Navbar */
+
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #000000;
+}
+
+.navbar-brand {
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 100%;
+}
+
+.navbar-brand:focus { outline: none; }
+.navbar-brand:hover { background-color: rgba(255, 255, 255, 0.2); }
+
+.navbar a { color: #ffffff; }
+
+.navbar .nav li a {
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out;
+}
+
+.navbar .nav li a:hover, .navbar .nav li a:focus, .navbar .nav li.active {
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar-toggle {
+  margin-top: 10px;
+  padding: 4px 6px;
+  font-size: 14px;
+  color: #ffffff;
+  border: 1px solid white;
+}
+
+.navbar-toggle:focus, .navbar-toggle:active { outline: none; }
+
+@media (min-width: 767px) {
+  .navbar {
+    border-bottom: rgba(11, 11, 11, 0.5);
+    letter-spacing: 1px;
+    background-color: rgba(11, 11, 11, 0.8);
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+  }
+}
+
+.darkbg { background-color: rgba(11, 11, 11, 0.7); }
+
+.img-home-portfolio, .img-customer, .portfolio-item { margin-bottom: 30px; }
+
+.tab-pane { margin-top: 15px; }
+
+/* Page Sections */
+
+.section, .section-colored { padding: 50px 0; }
+.section-colored {
+  background-color: #e1e1e1;
+ /* change this to change the background color of a colored section */
+}
+
+.sidebar { margin-top: 40px; }
+.sidebar ul {
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid #cccccc;
+}
+
+/* Half Page Height Carousel Customization */
+.carousel { height: 50%; }
+
+.item, .active, .carousel-inner { height: 100%; }
+
+.fill {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Social Icons Styles */
+
+.list-social-icons { margin-bottom: 45px; }
+
+.tooltip-social a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.facebook-link a:hover { color: #3b5998; }
+.linkedin-link a:hover { color: #007fb1; }
+.twitter-link a:hover { color: #39a9e0; }
+.google-plus-link a:hover { color: #d14836; }
+.github-link a:hover { color: #B4B4B4; }
+.email-link a:hover { color: #d14836; }
+
+/* Service Page Styles */
+
+.service-icon { font-size: 50px; }
+
+/* Sticky footer */
+
+#about, #posts, #post, #projects {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -80px; /* Negative indent footer by its height */
+  padding: 60px 0 80px; /* Pad bottom by footer height and top to show below navbar */
+}
+
+footer {
+  margin: 0
+  height: 80px;
+  color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  font-size: 16px;
+  padding-top: 20px;
+}
+
+footer p { margin: 0; }
+footer a { color: rgba(255, 255, 255, 0.4); }
+footer a:hover {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: underline;
+}
+
+#posts nav, #post nav {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+#posts nav span, #post nav span {
+  color: rgba(255, 255, 255, 0.3);
+  margin-right: 10px;
+  margin-top: 0;
+  font-size: 16px;
+}
+
+#posts nav span.field, #post nav span.field {
+  margin-right: 30px;
+}
+
+pre {
+  background-color: #403F36;
+  border: 1px solid #75715E;
+}
+
+pre code { color: lightgray; }
+
+code {
+  background-color: #403F36;
+  color: #E1E1E1;
+}

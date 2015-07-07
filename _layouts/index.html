@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<!--
+ | Template for the home page. Required because it is totally different of the other pages.
+ !-->
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.title }}">
+  <meta name="author" content="{{ site.author.name }}">
+
+  <title>{{ page.title }}</title>
+
+  <link
+    href="{{ site.bootstrapcdn }}/bootswatch/3.1.0/cyborg/bootstrap.min.css"
+    rel="stylesheet">
+
+  <link href="/css/modern-business.css" rel="stylesheet">
+  <link href="/css/homepage.css" rel="stylesheet">
+
+  <link href="/css/icomoon.css" rel="stylesheet">
+  <link
+    href="{{ site.cloudflare }}/font-awesome/4.0.3/css/font-awesome.min.css"
+    rel="stylesheet">
+  <link href='{{ site.googlefonts }}=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <link
+    href='{{ site.googlefonts }}=Lora:400,700,400italic,700italic'
+    rel='stylesheet'
+    type='text/css'>
+</head>
+
+<body>
+
+{{ content }}
+{% include analytics.html %}
+
+  <script src="{{ site.cloudflare }}/jquery/2.0.3/jquery.min.js"></script>
+  <script src="{{ site.cloudflare }}/twitter-bootstrap/3.1.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>

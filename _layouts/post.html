@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article id="post" class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <header>
+        <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+      </header>
+
+      <nav>
+        <span class="field">
+          <i class="fa fa-list-ul"></i>
+          {% for category in page.categories %}<span>{{ category }}</span>{% endfor %}
+        </span>
+        <span class="field">
+          <i class="fa fa-calendar"></i>{{ page.date | date_to_long_string }}
+        </span>
+        <span class="field">
+          <i class="fa fa-tags"></i>
+          {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}
+        </span>
+      </nav>
+
+      <section>
+        <p>{{ content }}</p>
+      </section>
+
+      <section>
+        {% include twitter.html %}
+        {% include linkedin.html %}
+        {% include disqus.html %}
+      </section>
+    </div>
+  </div>
+</article>

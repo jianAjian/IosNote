@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.7204626"
+     inkscape:cx="33.556588"
+     inkscape:cy="1003.2718"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       spacingy="0.5px"
+       spacingx="0.5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3033"
+       style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#95d32a;fill-opacity:1;stroke:#c4e787;stroke-opacity:1;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Bold"
+       d="m 51.365325,15.597364 c -6e-5,2.90006 -1.02909,5.33231 -3.0871,7.29677 -1.96457,1.96458 -4.35004,2.94683 -7.15645,2.94678 -2.90005,5e-5 -5.3323,-0.9822 -7.29677,-2.94678 -1.96455,-1.96446 -2.94681,-4.39671 -2.94678,-7.29677 -3e-5,-2.8064 0.98223,-5.19187 2.94678,-7.1564496 1.96447,-2.0579996 4.39672,-3.0870296 7.29677,-3.0870996 2.80641,7e-5 5.19188,1.0291 7.15645,3.0870996 2.05801,1.9645796 3.08704,4.3500496 3.0871,7.1564496 m 25.11774,50.51613 c -8e-5,2.9 -1.02911,5.33226 -3.0871,7.29677 -1.96458,1.96452 -4.35007,2.94678 -7.15645,2.94678 -2.90006,0 -5.33233,-0.98226 -7.29677,-2.94678 -1.96457,-1.96451 -2.94683,-4.39677 -2.94678,-7.29677 -5e-5,-2.80644 0.98221,-5.19192 2.94678,-7.15645 1.96444,-2.05805 4.39671,-3.08709 7.29677,-3.0871 2.80638,1e-5 5.19187,1.02905 7.15645,3.0871 2.05799,1.96453 3.08702,4.35001 3.0871,7.15645 m -50.23548,0 c -3e-5,2.9 -1.02906,5.33226 -3.0871,7.29677 -1.96454,1.96452 -4.35002,2.94678 -7.15645,2.94678 -2.90002,0 -5.332269,-0.98226 -7.2967792,-2.94678 -1.96452,-1.96451 -2.94678,-4.39677 -2.94677,-7.29677 -10e-6,-2.80644 0.98225,-5.19192 2.94677,-7.15645 1.9645102,-2.05805 4.3967592,-3.08709 7.2967792,-3.0871 2.80643,1e-5 5.19191,1.02905 7.15645,3.0871 2.05804,1.96453 3.08707,4.35001 3.0871,7.15645"
+       inkscape:export-filename="/home/jam/Projects/jamming/jamming.github.io/img/icon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

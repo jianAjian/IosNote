@@ -1,0 +1,443 @@
+
+Personal:
+  Name: { First: Juan José, Middle: Aguililla, Last: Martínez }
+  Birth: 1979-01-22
+  Birth Country: ES
+  Mother Language: es
+  Photo: assets/cv/photo.jpg
+  Gender: male
+  Alias: jamming
+  Avatar: assets/cv/avatar.png
+  Driving License: B1
+
+Residence:
+  City: Madrid
+  Country: ES
+  Postcode: 28038
+
+Contact:
+  Mobile: 620 38 28 08
+  Email: juanjoaguililla@gmail.com
+
+Social Networks:
+  LinkedIn: jaguililla
+  Twitter: jaguililla
+  Github: jamming
+  Bitbucket: jamming
+
+Publications:
+  Website: http://there4.co
+
+Groups:
+  - Group: Betabeers
+    Description: 'Monthly development meetings: interesting talks and beer!'
+    Web: http://betabeers.com
+
+Languages:
+  - Language: en
+    Listening: C1
+    Reading: C1
+    Spoken: C1
+    Written: C1
+
+Objectives: My objectives # TODO
+
+Top Skills: [
+  Software Design, Java Programming, Web Programming, Database Design, Programming Tools
+]
+
+Experience:
+  - Company: SICPA
+    Website: http://www.sicpa.com
+    Industry: Chemicals
+    Occupation: Senior Software Engineer
+    City: Madrid
+    Country: ES
+    Description: >
+      As a software engineer in SICPA I have been working in the company's Track & Trace
+      solution, mainly developing software for the different components of the product (from
+      clients running in factory lines to server services used to process data).
+
+      To do that I have used the following tools: Eclipse 3.6, Subversion, Maven 2 and the
+      Atlassian Suite (JIRA, Bamboo).
+
+      The main goal of the Track & Trace solution is to register and record the products made
+      in factories.
+    Projects:
+
+      - Project: Virline
+        From: 2013-04
+        To: present
+        Description: >
+          Desing and development of a testing tool meant to simulate physical devices in order
+          to test applications which uses them without the need of the actual hardware.
+        Responsabilities:
+        Technologies: [
+          Java Swing, Java Networking, Java Threading, Java IO, EJB Client, JUnit
+        ]
+        Servers: [ jBoss 5.1 ]
+        Tools: [ Eclipse 3.7, Subversion, Maven 3, JIRA, Bamboo, Sonar ]
+
+      - Project: Mobile Check
+        From: 2012-08
+        To: 2012-10
+        Description: >
+          Development of a mobile and a Web application to gather product's information
+          associated to their Datamatrix codes. Also Web desing (UI, colors, branding, etc.)
+        Responsabilities:
+        Technologies: [
+          Java SE, JAX-RS (REST Services), Android, HTML5, Less CSS, Twitter Bootstrap, JUnit
+        ]
+        Servers: [ Tomcat 7 ]
+        Tools: [ Eclipse 3.6, Subversion, Maven 2, JIRA, Bamboo ]
+
+      - Project: California SAS
+        From: 2011-10
+        To: 2012-07
+        Description: Development of Track & Trace client for production lines.
+        Responsabilities:
+        Technologies: [ Java Swing, JUnit ]
+        Tools: [ Eclipse 3.6, Subversion, Maven 2, JIRA, Bamboo ]
+
+  - Company: VASS Consulting
+    Website: http://www.vass.es
+    Industry: IT Professional Services (Consultancy)
+    Occupation: Software Analyst
+    City: Alcobendas
+    Country: ES
+    Description:
+    Projects:
+
+      - Project: Ad Manager
+        Client: { Name: Buongiorno, Website: 'http://www.buongiorno.com' }
+        From: 2009-01
+        To: 2010-08
+        Description: Development of an advertisement server using J2EE technology.
+        Responsabilities:
+        Technologies: [ iBatis, Struts 2, Pentaho BI, ActiveMQ ]
+        Servers: [ jBoss 5.0, MySQL 5.1 ]
+        Tools: [ Eclipse 3.5, CVS, jMeter, Maven 2 ]
+
+      - Project: Content Catalogue for MAPFRE Autos
+        Client: { Name: MAPFRE, Website: 'http://www.mapfre.com' }
+        From: 2008-10
+        To: 2009-01
+        Description: Analysis and development of the MAPFRE's Content Catalogue application.
+        Responsabilities:
+        Technologies: [ Struts, Documentum, IBM Portal, IBM Quickr ]
+        Servers: [ Websphere Application Server, IBM DB2 ]
+        Tools: [ Eclipse 3.4, Subversion, ANT ]
+
+      - Project: VASS Software Factory with Vignette
+        Client: Several clients
+        From:  2008-09
+        To: 2008-10
+        Description: >
+          Analysis, design and development for several projects managed by this area (CMS for
+          the Barcelona City Hall and PAI 4.5 -Movistart Web Content platform-).
+        Responsabilities:
+        Technologies: [ J2EE, Vignette ]
+        Servers: [ Vignette ]
+        Tools: [ Eclipse 3.3, Subversion ]
+
+      - Project: CUN
+        Client: { Name: Clínica Universitaria de Navarra, Website: 'http://www.cun.es' }
+        From: 2008-05
+        To: 2008-09
+        Description: >
+          Analysis and development of the CUN Web Application. This application was designed to
+          control patient's medical data, this data is entered and sent via Web or by Mobile
+          phone.
+        Responsabilities:
+        Technologies: [ Struts 1, XHTML, SQL ]
+        Servers: [ Oracle 8, Tomcat 5.5 ]
+        Tools: [ Eclipse 3.3, Subversion, Ant ]
+
+      - Project: Vodafone Live! Technical Office
+        Client: { Name: HP, Website: 'http://www.hp.es' }
+        From: 2006-09
+        To: 2008-05
+        Description: >
+          Maintenance service (software development, fixes and changes) for the Vodafone WAP
+          portal (Vodafone Live!) projects.
+        Responsabilities:
+        Technologies: [ GWT 1.4, Struts 1, SQL, XHTML, CSS, J2EE ]
+        Servers: [ Weblogic 8.1, Oracle 9i ]
+        Tools: [ Eclipse 3.3, Subversion, Maven 2, Trac ]
+
+      - Course: RIA Web Applications with GWT Course
+        Description: >
+          I taught a course of six hours to learn how to develop RIA applications using
+          Google's Web Framework (GWT).
+        Responsabilities: Teacher
+        Technologies: [ GWT ]
+        Servers: [ Tomcat ]
+        Tools: [ Eclipse ]
+
+      - Course: Automatic Build Management with Ant y Maven Course
+        Description: >
+          I taught a four hours course about controlling and building software projects using
+          Ant and Maven 2.
+        Responsabilities: Teacher
+        Technologies: [ Ant, Maven ]
+
+      - Course: Introduction to J2EE Course
+        Description: >
+          I taught an introductory course about the JEE platform of six hours long. It was
+          focused in the J2EE architecture and Web modules development (Servlets and JSPs).
+        Responsabilities: Teacher
+        Technologies: [ JEE, Servlets, JSP ]
+        Servers: [ JBoss ]
+        Tools: [ Eclipse, Shell, Maven, Ant ]
+
+  - Company: Elan I.T.
+    Website: http://www.experis.es
+    Industry: IT Professional Services (Consultancy)
+    Occupation: Software Analyst
+    City: Madrid
+    Country: ES
+    Projects:
+
+      - Project: SNBA
+        Client: { en: GFI to Vodafone, es: GFI para Vodafone }
+        From: 2005-12
+        To: 2006-09
+        Description: >
+          Development and maintenance of a Web application which purpose was to make the best
+          possible offer to clients depending on the channel they were using (Web, call center,
+          shops, etc.).
+        Responsabilities:
+        Technologies: [ J2EE, XML (JDOM), XHTML, CSS, SQL, JavaScript ]
+        Servers: [ Oracle 8i, Weblogic 5.1 ]
+        Tools: [ Eclipse 3.1 ]
+
+      - Project: Project CaserAuto (Caser)
+        Client:
+        From: 2005-02
+        To: 2005-12
+        Description: >
+          Development and maintenance of a Web application designed to manage insurance
+          policies by Internet.
+        Responsabilities:
+        Technologies: [ J2EE, XML (JDOM), EJB, XHTML, CSS, SQL, JavaScript ]
+        Servers: [ Oracle 8i, Weblogic 5.1 ]
+        Tools: [ Eclipse 3.1, Together 5.5, Visual Source Safe ]
+
+  - Company: Confía
+    Industry: Health
+    Occupation: Software Analyst
+    City: Pozuelo de Alarcón
+    Country: ES
+    Description:
+    Projects:
+
+      - Project: Project Fidelity
+        Client:  (in-house)
+        From: 2004-02
+        To: 2004-12
+        Description: >
+          Analysis, design and development of a client-server application to automate
+          communications to customers (sending SMSs, emails or voice calls). I designed the
+          application's architecture using UML and created the project's infrastructure
+          (packages generation, documentation, component signing, etc.).
+        Responsabilities:
+        Technologies: [ J2SE, Java Web Start, Swing, PHP, SQL, Torque ]
+        Servers: [ MySQL 4.0 ]
+        Tools: [ Eclipse 3.0, Ant 1.6, CVS ]
+
+  - Company: OmniSoft
+    Website: http://www.omnisoft.es
+    Industry: IT Professional Services (Consultancy)
+    Occupation: Analyst Developer
+    City: Madrid
+    Country: ES
+    Description:
+    Projects:
+
+      - Project: Project GEM (Gestión Envios Masivos)
+        Client: BBVA
+        From: 2003-07
+        To: 2004-02
+        Description: >
+          Application to send a huge number of emails (mainly for advertisement purposes) with
+          load balancing between mail servers. I was in charge of the functional analysis and
+          components design.
+        Responsabilities:
+        Technologies: [ J2SE, XML (SAX, DOM), Threads, MQ Series, Javamail, AIX ]
+        Servers: [ Oracle 8i ]
+        Tools: [ Eclipse 2.1, Ant 1.5 ]
+
+      - Project: Project NCSC (Nivel de Calidad del Servicio de Correo)
+        Client: BBVA
+        From: 2002-09
+        To: 2003-07
+        Description: >
+          Application to monitor the mail server network to assure the quality of the service.
+          This goal was achieved by using several process (Java threads) to send and receive
+          mails to each server.
+        Responsabilities:
+        Technologies: [ J2SE, XML (SAX, DOM), Threads, MQ Series, Javamail, AIX ]
+        Servers: [ Oracle 8i ]
+        Tools: [ WebSphere Studio Application Developer 4.0, Ant 1.5 ]
+
+      - Project: WSBCC and Java Course
+        Client:
+        From: 2002-08
+        To: 2002-09
+        Description: >
+          I taught a four weeks course for WSBCC (WebSphere Business Component Composer) and
+          Java development. For the course, the students used Eclipse 2.0 and Visual Age for
+          Java 4.0.
+        Responsabilities:
+
+  - Company: Thales I.S.
+    Website: http://thalesgroup.es
+    Industry: IT Professional Services (Consultancy)
+    Occupation: Senior Developer
+    City: Madrid
+    Country: ES
+    Description:
+    Projects:
+
+      - Project: Project Altair
+        Client: IBM
+        From: 2002-04
+        To: 2002-08
+        Description: >
+          Programming some parts of the BSCH's financial console, which is used to manage the
+          bank's offices operations.
+        Responsabilities:
+        Technologies: [ J2SE, Swing, XML, CBTF 3.0 ]
+        Servers: [ Host, DB2 ]
+        Tools: [ Visual Age for Java 2.0 ]
+
+      - Project: Project Multilanguage
+        Client: Telefónica Móviles
+        From: 2002-02
+        To: 2002-04
+        Description: >
+          Development of an application to translate Oracle Forms windows (called forms as
+          well).
+        Responsabilities:
+        Technologies: [ C++, Oracle, SQL, PL/SQL ]
+        Servers: [ Oracle 8i ]
+        Tools: [ Borland C++ Builder, Oracle Forms ]
+
+      - Project: Project Canal On Line
+        Client: Telefónica Sistemas
+        From: 2001-08
+        To: 2002-02
+        Description: >
+          Web application that manages issues (errors, pending tasks, etc.) via intranet.
+        Responsabilities:
+        Technologies: [ J2EE, XML (JAXP), XSLT, JSP, HTML, CSS, JavaScript ]
+        Servers: [ Oracle 8i, iPlanet ]
+        Tools: [ NetBeans 2.0 ]
+
+      - Project: Project NMC
+        Client: IBM
+        From: 2000-11
+        To: 2001-08
+        Description: >
+          Programming the client side of a client-server application which purpose was to
+          manage Telefónica's most important customers.
+        Responsabilities:
+        Technologies: [ J2SE, Swing, XML, WSBCC ]
+        Servers: [ Host, DB2 ]
+        Tools: [ Visual Age for Java 3.0 ]
+
+  - Company: INODE
+    Industry: IT Professional Services (Consultancy)
+    Occupation: Junior Developer
+    City: Madrid
+    Country: ES
+    Projects:
+
+      - Project: Project Friser
+        Client: Friser
+        From: 2000-08
+        To: 2000-10
+        Description: >
+          Development of a client-server application to manage orders and invoices using
+          Microsoft products.
+        Responsabilities:
+        Technologies: [ Visual Basic ]
+        Tools: [ Visual Basic, Access ]
+
+Education:
+  - Title: Technical in Software Development
+    Level:
+    Institution: I.E.S Vista Alegre
+    From: 1998
+    To: 2000
+    Subject:
+    Country: ES
+    City: Madrid
+    Description:
+    Subjects: [ ]
+
+  - Course: Android Application Development
+    Institution: Cas Training
+    Company: SICPA
+    From: 2013-06-17
+    To: 2013-06-21
+    Lenght: 30h
+    Country: ES
+    City: Madrid
+    Description: Threading, UI etc. # TODO
+
+  - Course: VMware Core Spring
+    Institution: VMware
+    Company: SICPA
+    From: 2012-11-20 # TODO
+    To: 2012-11-23 # TODO
+    Lenght: 35h # TODO
+    Country: CH
+    City: Laussane
+    Description: >
+      IoC, AOP, Data (JDBC), Hibernate, DB Transactions, Web MVC, Security, Remoting, JMS, JMX
+
+Communication Skills: [ International projects ]
+
+Managerial Skills: [ Basketball coach ]
+
+Technical Skills:
+  - Operating Systems: [ AIX, Linux, Solaris, Windows 2000, Windows XP, Windows 7 ]
+  - Methodologies: [ UML, Metrica 3, Scrum, TDD, BDD ]
+  - Programming Languages: [ C, C++, Java, Basic, SQL, PL/SQL, Scala, Python, Ruby ]
+  - J2SE: [ Applets, JDBC, JFC / Swing, JavaFX ]
+  - J2EE: [ Servlets, JSP, JMS, EJB, JavaMail, DOM, SAX, JPA ]
+  - Mobile development: [ Android, J2ME ]
+  - Frameworks and libraries: [ Spring 3, GWT, Struts 1/2, MyBatis, etc. ]
+  - Web Development: [ HTML(5), CSS(3), LESS, JavaScript, XML, PHP, Twitter Bootstrap ]
+
+  - Integrated Development Environments (IDEs): [
+    'Eclipse 2 - 4', Visual Basic 6, 'NetBeans 2 - 7', Borland C++ Builder 5,
+    'Intellij IDEA 11 - 13'
+  ]
+
+  - Programming Tools: [ Ant, Oracle Developer, Maven 2/3, MySQL Workbench, Artifactory ]
+
+  - Source Code Management (SCM): [ CVS, Visual Source Safe, Subversion, Git ]
+
+  - Quality Assurance (QA) and Test Frameworks: [
+    JUnit, Sonar, User Interfaces design and usability, Hudson / Jenkins, Bamboo
+  ]
+
+  - Database Management Systems (DBMSs): [ Oracle 11g, MySQL, HSQLDB, H2 ]
+  - Application Servers: [ JBoss, Tomcat, Jetty, iPlanet, Websphere Aplication Server ]
+  - Office Suites: [ MS Office, Open Office ]
+
+Other Skills: [ Typewriting, Drawing ]
+
+Anexes: # Copies of degrees and qualifications, etc (basicly a list of other files)
+
+Interests: [ Basketball, Martial Arts, Videogames, Theater, Music ]
+
+Other Facts: [ Availability to travel, Own vehicle ]
+
+---
+#
+# D O C U M E N T S
+# Selects displayed info, order, format, language, put tags, etc.
+#
